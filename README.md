@@ -17,6 +17,7 @@ Calculate
 Visualise
   - View results in an interactive plot
 
+
 ### Resources
 The lexicon used in this analysis is NRC Word-Emotion Association (EmoLex). It is available for download at http://sentiment.nrc.ca/lexicons-for-research/. The corpus of Anna Karenina is available at https://www.gutenberg.org/files/1399/1399-h/1399-h.htm.
 

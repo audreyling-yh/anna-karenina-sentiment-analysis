@@ -8,7 +8,7 @@ There are four parts to this analysis:
 - src/calc.py -- calculate sentiment and emotion scores
 - src/img.py -- visualise the scores using bokeh interactive plot
 
-Final output: data/img/
+Final output (download and view in browser): data/img/
 
 ### Resources
 The lexicon used in this analysis is NRC Word-Emotion Association (EmoLex). It is available for download at http://sentiment.nrc.ca/lexicons-for-research/. The corpus of Anna Karenina is available at https://www.gutenberg.org/files/1399/1399-h/1399-h.htm.
